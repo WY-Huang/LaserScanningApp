@@ -1,0 +1,14 @@
+#-- 全局安装（所有用户可用),将xxx.desktop 复制到/usr/share/applications  
+#-- 当前用户可用, 将xxx.desktop 复制到 ~/.local/share/applications 目录即可
+#-- appName.desktop
+
+[Desktop Entry]
+Version=1.0
+Name=laser scanning
+Comment=this app use for line laser scanning!
+Exec=/home/wanyel/QT_work/11_release/LaserScan/Laser-Scanning.sh
+Icon=/home/wanyel/QT_work/11_release/LaserScan/icon/LS_logo.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+
