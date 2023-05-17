@@ -6,7 +6,7 @@
 Version=1.0
 Name=laser scanning
 Comment=this app use for line laser scanning!
-Exec=/home/wanyel/QT_work/11_release/LaserScan/Laser-Scanning.sh
+Exec=/home/wanyel/QT_work/11_release/LaserScan/LaserScanning.sh
 Icon=/home/wanyel/QT_work/11_release/LaserScan/icon/LS_logo.png
 Terminal=false
 Type=Application
